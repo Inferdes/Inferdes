@@ -1,4 +1,5 @@
-# Sou professor Jean
+# Sou professor Jean.
+Professor de Pensamento Computacional e Programação.
 
 
 ### Olá amigos da programação 👋
