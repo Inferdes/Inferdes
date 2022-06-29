@@ -1,6 +1,5 @@
 # Sou professor Jean.
-Professor de Pensamento Computacional e Programação.
-
+Professor de Pensamento Computacional; professor de Programação Tecnológica e Computacional; professor de Programação e Games do Programa Edutech-Pr.
 
 ### Olá amigos da programação 👋
 
