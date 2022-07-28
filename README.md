@@ -3,9 +3,9 @@ Professor de Pensamento Computacional; professor de Programação Tecnológica e
 
 ### Olá amigos da programação 👋
 
-**# Vamos compartilhar nossas afinides e nossos anceios.**
+** Vamos compartilhar nossas afinides e nossos anceios?**
 
-**# Minhas redes sociais e proficionais estão te esperando:**
+** Minhas redes sociais e proficionais estão te esperando:**
 
 <a href="https://www.instagram.com/inferdes/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
