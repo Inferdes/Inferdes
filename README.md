@@ -11,7 +11,7 @@ Professor de Pensamento Computacional (EF e EM), Matmática (EF e EM), Matemáti
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
 <a href="https://[www.linkedin.com/in/jean-carlos-inferdes-bb3852102/](https://www.linkedin.com/in/jean-carlos-inferdes-bb3852102/)">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BJsTEWmQaQ4SpW7IPF1412g%3D%3D)" />
 </a>
 <a href="https://www.facebook.com/jeaninferdes/">
   <img align="left" alt="Abhishek's Facebook" width="95px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
