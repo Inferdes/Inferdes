@@ -12,7 +12,7 @@ Professor de Pensamento Computacional (EF e EM), Matmática (EF e EM), Matemáti
   </a>
 
 <a href="https://www.linkedin.com/in/jean-carlos-inferdes-bb3852102/">
-  <img align="left" alt="Abhishek's Linkedin" width="40px" src="https://tm.ibxk.com.br/2017/09/21/21125406877087.jpg?ims=1280x480" />
+  <img align="left" alt="Abhishek's Linkedin" width="60px" src="https://tm.ibxk.com.br/2017/09/21/21125406877087.jpg?ims=1280x480" />
 </a>
 
 <a href="https://www.facebook.com/jeaninferdes/">
